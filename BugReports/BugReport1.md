@@ -17,7 +17,7 @@
 - O café promocional permanece no carrinho, mesmo sem os itens necessários para validar a promoção.
 
 ## Impacto
-- Os usuários podem aproveitar promoções indevidamente, causando inconsistências nos preços e impactando as vendas e o faturamento.
+- **Financeiro**: Os usuários podem aproveitar promoções indevidamente, causando inconsistências nos preços e impactando as vendas e o faturamento.
 
 ## Ambiente de Teste
 - **Navegadores**: Chrome e Brave
