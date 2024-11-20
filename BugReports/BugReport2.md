@@ -16,7 +16,6 @@ Passos para Reproduzir:
 - O cupom pode ser aplicado infinitamente para o mesmo usuário, sem restrição, acumulando descontos de forma indevida.
 
 ## Impacto:
-
 - **Financeiro**: Perda de receita devido ao uso ilimitado do desconto.
 - **Credibilidade**: Comprometimento da confiança dos usuários em futuras promoções, caso o problema seja percebido.
 
@@ -26,7 +25,7 @@ Passos para Reproduzir:
 
 ## Severidade: 
 - Alta
-- 
+
 ## Prioridade: 
 - Crítica
 
