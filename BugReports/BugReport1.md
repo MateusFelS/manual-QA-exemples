@@ -20,8 +20,8 @@
 - Os usuários podem aproveitar promoções indevidamente, causando inconsistências nos preços e impactando as vendas e o faturamento.
 
 ## Ambiente de Teste
-- Navegadores: Chrome e Brave
-- Sistema Operacional: Windows 10
+- **Navegadores**: Chrome e Brave
+- **Sistema Operacional**: Windows 10
 
 ## Severidade
 - Média
