@@ -8,4 +8,4 @@ Aqui você encontrará exemplos das minhas práticas de garantia de qualidade, i
 - [Plano de Teste](./TestPlan)
 
 ## Sobre mim  
-Sou um profissional de QA em início de carreira, apaixonado por encontrar soluções para melhorar a qualidade de software. Este portfólio é parte do meu aprendizado contínuo.  
+Sou um profissional de QA em início de carreira, apaixonado por encontrar soluções para melhorar a qualidade de software. Este documento é parte do meu aprendizado contínuo.  
